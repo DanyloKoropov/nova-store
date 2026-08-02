@@ -8,7 +8,7 @@ NovaStore is a responsive e-commerce single-page application built with React. I
 
 ## Preview
 
-<img src="src/assets/demoN.gif" width="1000" alt="NovaStore product catalog and shopping flow" />
+<img src="src/assets/demoN.gif" width="50%" alt="NovaStore product catalog and shopping flow" />
 
 ## Features
 
